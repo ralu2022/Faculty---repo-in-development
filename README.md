@@ -14,15 +14,15 @@ HOMEWORKS & PROJECTS
 | I.8. Object Oriented Programming (OOP)|[View](https://github.com/ralu2022/Faculty/tree/deac0ddaa06cb44f8423f8fd1f4edd0ff30f8b75/Object%20Oriented%20Programming%20(OOP))| |C++|
 | I.9. Operating Systems|[View](https://github.com/ralu2022/Faculty/tree/deac0ddaa06cb44f8423f8fd1f4edd0ff30f8b75/Operating%20Systems)| |-|
 | II. SECOND YEAR |                                        |
-| II.1. Automata, Computability, and Complexity|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Automata%2C%20Computability%2C%20and%20Complexity)|Deep dive into genetic and nature based algorithms|C++|
-| II.2. Cloud Computing|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Cloud%20Computing)|Konwledgment about IAAS, PAAS, SAAS and Google Cloud Platform|-|
-| II.3. Computer Game Development|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Game%20Development)|Basic learning about game programming in Java|Greenfoot,Scratch|
-| II.4. Computer Networks|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Networks)|Basic knowledge about computer networks|C++, Java|
-| II.5. Databases| [Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Databases)|CRUD operations on databases, including data manipulation functions|Sql, MySQL|
-| II.6. Digital Image Processing|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Digital%20Image%20Processing)|Algorithms design for image processing|C#|
-| II.7. Dynamic Systems Simulation|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Dynamic%20Systems%20Simulation)|Differential equations solved in Python|Python, Jupiter|
-| II.8. Formal Languages and Compilers|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Formal%20Languages%20and%20Compilers)|Finite automata, regex|C++|
-| II.9. Graph Algorithms|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Graph%20Algorithms)|Graph theory and algorithms|C++|
-| II.10. Programming Environments and Tools|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Programming%20Environments%20and%20Tools)|Java programming, key concepts|Java, Eclipse|
-| II.11. Programming Visual Environments|[Go to page](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Programming%20Visual%20Environments)|CSharp - syntax| C#, SQL Server Management Studio|
+| II.1. Automata, Computability, and Complexity|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Automata%2C%20Computability%2C%20and%20Complexity)|Deep dive into genetic and nature based algorithms|C++|
+| II.2. Cloud Computing|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Cloud%20Computing)|Konwledgment about IAAS, PAAS, SAAS and Google Cloud Platform|-|
+| II.3. Computer Game Development|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Game%20Development)|Basic learning about game programming in Java|Greenfoot,Scratch|
+| II.4. Computer Networks|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Computer%20Networks)|Basic knowledge about computer networks|C++, Java|
+| II.5. Databases| [View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Databases)|CRUD operations on databases, including data manipulation functions|Sql, MySQL|
+| II.6. Digital Image Processing|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Digital%20Image%20Processing)|Algorithms design for image processing|C#|
+| II.7. Dynamic Systems Simulation|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Dynamic%20Systems%20Simulation)|Differential equations solved in Python|Python, Jupiter|
+| II.8. Formal Languages and Compilers|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Formal%20Languages%20and%20Compilers)|Finite automata, regex|C++|
+| II.9. Graph Algorithms|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Graph%20Algorithms)|Graph theory and algorithms|C++|
+| II.10. Programming Environments and Tools|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Programming%20Environments%20and%20Tools)|Java programming, key concepts|Java, Eclipse|
+| II.11. Programming Visual Environments|[View](https://github.com/ralu2022/Faculty/tree/2266200c55a6b1f01d9ad8fcbf12001c44a2f22f/Programming%20Visual%20Environments)|CSharp - syntax| C#, SQL Server Management Studio|
 
